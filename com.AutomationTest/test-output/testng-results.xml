@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11764" started-at="2018-09-14T14:21:56Z" finished-at="2018-09-14T14:22:08Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11764" started-at="2018-09-14T14:21:56Z" finished-at="2018-09-14T14:22:08Z">
+      <class name="Testing.TestNG_Demo">
+        <test-method status="PASS" signature="setupTest()[pri:0, instance:Testing.TestNG_Demo@15bfd87]" name="setupTest" is-config="true" duration-ms="4011" started-at="2018-09-14T14:21:56Z" finished-at="2018-09-14T14:22:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupTest -->
+        <test-method status="PASS" signature="googlesearch()[pri:0, instance:Testing.TestNG_Demo@15bfd87]" name="googlesearch" duration-ms="5665" started-at="2018-09-14T14:22:00Z" finished-at="2018-09-14T14:22:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googlesearch -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Testing.TestNG_Demo@15bfd87]" name="teardown" is-config="true" duration-ms="2067" started-at="2018-09-14T14:22:06Z" finished-at="2018-09-14T14:22:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Testing.TestNG_Demo -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

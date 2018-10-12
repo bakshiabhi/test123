@@ -1,0 +1,16 @@
+// single.conf.json
+{
+  "server": "hub-cloud.browserstack.com",
+  "user": "abhishekbakshi1",
+  "key": "yxsZp7R8qkKxi9z7XpZa",
+
+  "capabilities": {
+    "browserstack.debug": true
+  },
+
+  "environments": {
+    "chrome": {
+      "browser": "chrome"
+    }
+  }
+}
